@@ -1,10 +1,10 @@
 {
-  "unity_port": 1608,
-  "stream_port": 1664,
+  "unity_port": -1,
+  "stream_port": 10082,
   "created_date": "2026-06-03T07:00:08.8239815Z",
   "project_path": "D:/TuanjieHub/UnityProjects/PlatformerDemo/Assets",
   "reloading": false,
-  "reason": "ready",
+  "reason": "stopped",
   "seq": 1,
-  "last_heartbeat": "2026-06-15T08:31:49.9855915Z"
+  "last_heartbeat": "2026-06-16T07:21:29.4892633Z"
 }
